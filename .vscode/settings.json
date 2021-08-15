@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "prettier.useTabs": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "javascript.format.placeOpenBraceOnNewLineForFunctions": true,
+    "html.format.indentInnerHtml": true
+}
